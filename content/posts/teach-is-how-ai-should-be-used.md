@@ -1,6 +1,6 @@
 +++
 title = "The /teach skill is how AI should be used"
-date = 2026-07-06T20:48:00+08:00
+date = 2026-08-26T20:48:00+08:00
 draft = false
 +++
 
