@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rey Lee on Rey</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Rey Lee on Rey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 06 Jul 2026 20:48:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The /teach skill is how AI should be used</title>
+      <link>http://localhost:1313/posts/teach-is-how-ai-should-be-used/</link>
+      <pubDate>Mon, 06 Jul 2026 20:48:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/teach-is-how-ai-should-be-used/</guid>
+      <description>In the software realm, agentic coding is a big thing now. Had been for a year and a half, and if you have been in that space recently, you might have used skills: markdown files that extends an agent&amp;rsquo;s capabilities by giving domain-specific information. You can give an agent a skill, for instance, for frontend design or test-driven development, augmenting that agent&amp;rsquo;s skillset.&#xA;I was working on a coding-first learning platform the first quarter of this year which I dropped by the second quarter due to other responsibilities, when my boss sent me a link to the /teach skill around two months ago, as it seemed to align with my Code To Learn project, so I gave it a whirl.</description>
+    </item>
+  </channel>
+</rss>

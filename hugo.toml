@@ -1,0 +1,45 @@
+baseURL = 'https://reylee.net/'
+theme = 'hugo-bearblog'
+
+# Basic metadata configuration for your blog.
+title = "Rey"
+author = "Lee Ryan Soliman"
+languageCode = "en-US"
+
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
+
+[params]
+  email = "contact@leeryan.dev"
+
+  # The "description" of your website. This is used in the meta data of your generated html.
+  description = "Lee Ryan's blog website."
+
+  # Another "title" :-). This one is used as the site_name on the Hugo's internal
+  # opengraph structured data template.
+  # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+  title = "Rey"
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+
+  [markup.highlight]
+    style = "gruvbox"
+    lineNos = true
+    lineNumbersInTable = false
+    codeFences = true
+
+  [markup.goldmark.renderer]
+  unsafe = true
+
+[menus]
+  [[menus.social]]
+    name = "github"
+    url = "https://github.com/codenamerey"
+    weight = 20
+
+  [[menus.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/lee-ryan-soliman-783581244/"
+    weight = 30
+
