@@ -1,5 +1,5 @@
 +++
-title = "Rey Lee"
+title = "Home"
 menu = "main"
 weight = 1 
 +++
@@ -16,4 +16,6 @@ Anyhow, you can view some of my best works in the [projects](./projects) section
 Thanks for staying for a short while.
 
 Best,
+
+
 Lee Ryan
