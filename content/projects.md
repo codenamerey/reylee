@@ -7,6 +7,6 @@ draft = false
 - mindful.ly — AI-and-human-in-the-loop learning platform (a fork of [`/teach`](https://www.aihero.dev/skills-teach) skill).
 - Code To Learn — hackerrank/leetcode-inspired coding platform with focus on actual STEM problems.
 - Set relation determinator — Math tool for identifying a [set's relations](https://runestone.academy/ns/books/published/DiscreteMathText/rstrelations8-2.html)
-
+- [`/clean-coder-tdd` skill](https://github.com/codenamerey/clean-coder-tdd)
 ### Certification-wise
 - **Future of AI** issued by *Bluedot Impact*

@@ -3,9 +3,14 @@ title = "Home"
 menu = "main"
 weight = 1 
 +++
-### The mindful programmer
+
+### Who wants code nobody understands?
+
+### Welcome to a mindful programmer's space!
+
 ---
-Hi! Name's Lee. I have been programming since 2020 A.K.A *le pre-AI times*.
+
+Hi! Name's Lee. I have been programming since 2020 A.K.A _le pre-AI times_.
 
 Writing is my first love. I used to be a writer for our school paper, The Kabyawan, back in high school. More so, I loved writing essays and poems, and I still sometimes do until today.
 
@@ -16,6 +21,5 @@ Anyhow, you can view some of my best works in the [projects](./projects) section
 Thanks for staying for a short while.
 
 Best,
-
 
 Lee Ryan
