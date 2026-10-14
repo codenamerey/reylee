@@ -6,7 +6,7 @@ draft = true
 
 In the cold, cold, engineering world full of electronics, I'm very grateful that the curriculum has some units from the humanities, otherwise, I'm positive every one is just going to be a cog to the machine, doing as instructed, stripped away of their humanity.
 
-The humanities are great, and in my final year, a took a philosophy course that permanently changed my life perspective. I forgot the course code—it didn't matter to me, anyway, but the lessons from that class is forever ingrained in my spirit. I plan on referring to them a lot in my daily life; I hope to put theory into action.
+The humanities are great, and in my final year, I took a philosophy course that permanently changed my life perspective. I forgot the course code—it didn't matter to me, anyway, but the lessons from that class is forever ingrained in my spirit. I plan on referring to them a lot in my daily life; I hope to put theory into action.
 
 I thank my professor, sir Jerald (who hasn't accepted my Facebook friend request so I doubt he will see this), for introducing us to philosophy and putting his heart out into teaching this complex subject.
 
@@ -21,7 +21,7 @@ Right, let's crack on.
 ### Generosity: Love and wishes
 In Plato's Nicomachean ethics, generosity is a virtue. Give too little of it and you become stingy; give too much and you become extravagant.
 
-What struck me so hard is the idea that generosity is not *giving*, but rather, *sharing*. What you can be generous about is something you already have; something you can share. If you don't have something you want to be generous about, that something, then, becomes a wish.
+What struck me so hard is the idea that generosity is not *giving*, but rather, *sharing*. What you can be generous about is something you already have; something you can share. If you don't have something you want to be generous about, that something, then, becomes only a wish. It is something we view as good, but we do not have it, and therefore can not share it.
 
 Romantic love is a great example (and is also what my professor used to illustrate generosity.) It's a popular idea too: only love once you can. It's a cliché, but you can't love another greater than you do yourself.
 
@@ -29,7 +29,9 @@ If you don't already love yourself, you do not have what it takes to be generous
 
 The same goes to being a parent, being a friend, being a fellow human. The bottleneck will always be you and how you are to yourself. It's a pretty well established idea dating back to Plato's time way before telenovelas capitalized on it.
 
-> Generosity is only one of the virtues in Nicomachean ethics, and I will not enumerate them in this article. Our professor only gave us a snapshot of the virtues, so if you want to learn more, you'd have to do your research yourself. This here is just a summary of what stuck on me, personally.
+You can only help after you have already helped yourself, and by the same token, only love when you love yourself. So the next time your boyfriend tells you that I love you more than I do myself, gift him Plato's book for Christmas.
+
+> Generosity is only one of the virtues in Nicomachean ethics, and I will not enumerate them in this article. Our professor only gave us a snapshot of the virtues, so if you want to learn more, you'd have to do the research yourself. This here is just a summary of what stuck on me, personally.
 
 ### What to have a friend means
 Kant puts an extreme ideal on what it means to be friends. Phenomenal thinker, Kant was, and he did all that thinking in his hometown where he spent his entire life in.
@@ -47,3 +49,11 @@ The love a true friend has for their other friend is unconditional. A friend doe
 This one is also from Kant.
 
 This language was esoteric to me at first pass, but the simplified version is: do not use a person to
+
+### Thou Shall Not Have Bias Take Over You 
+Everyone has their own biases. Maybe it's racial. Maybe it's about status. However, you should not let bias rule your opinion over someone. **You should be open to other people's opinions.** Which leads me to my next point, actually, that goes hand-in-hand with bias.
+
+### Reject dogma
+Dogma is a prescriptive truth. Usually, religion is where we inherit dogma from. There is this set of rules that has to be the truth and it is expected that you just follow through—that is dogma.
+
+But dogma impedes us from understanding the perspective of someone else. Even how foolish we think the argument of someone else is; how biased we are against them, it is important that we listen and try to understand. Otherwise, we are dogmatic, and if we are, we are contained in our own echo chamber without hope for escape—only if we venture out of our shell and entertain other people's point of view can we get out.
